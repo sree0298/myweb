@@ -1,4 +1,4 @@
 #! /bin/bash
-/opt/tomcat8/bin/shutdown.sh
+/root/apache-tomcat-9.0.108/bin/shutdown.sh
 
 demo
